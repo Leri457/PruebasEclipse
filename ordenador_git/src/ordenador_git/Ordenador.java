@@ -24,7 +24,7 @@ public class Ordenador {
 	public Ordenador() {}
 	
 	/**
-	 * Constructor de la clase al que se le pasan
+	 *
 	 * @param modelo: modelo del ordenador
 	 * @param precio: precio del ordenador
 	 * @param memoria: tamaño de la memoria del ordenador
