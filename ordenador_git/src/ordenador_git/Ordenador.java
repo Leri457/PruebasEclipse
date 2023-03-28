@@ -15,6 +15,8 @@ public class Ordenador {
 	public double precio;
 	/*Variable que almacena el tamaño de la memoria del ordenador*/
 	public int memoria;
+	/*Variable que almacena la ubicacion donde se encuentra el equipo*/
+	public String ubicacionAula;
 	
 	/**
 	 * Constructor vacio de la clase
