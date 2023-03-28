@@ -35,4 +35,47 @@ public class Ordenador {
 		
 	}
 
+	/**
+	 * @return the modelo
+	 */
+	public String getModelo() {
+		return modelo;
+	}
+
+	/**
+	 * @return the precio
+	 */
+	public double getPrecio() {
+		return precio;
+	}
+
+	/**
+	 * @return the memoria
+	 */
+	public int getMemoria() {
+		return memoria;
+	}
+
+	/**
+	 * @param modelo the modelo to set
+	 */
+	public void setModelo(String modelo) {
+		this.modelo = modelo;
+	}
+
+	/**
+	 * @param precio the precio to set
+	 */
+	public void setPrecio(double precio) {
+		this.precio = precio;
+	}
+
+	/**
+	 * @param memoria the memoria to set
+	 */
+	public void setMemoria(int memoria) {
+		this.memoria = memoria;
+	}
+	
+
 }
